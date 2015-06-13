@@ -19,7 +19,13 @@ public class main {
         int suma = 5;
         int suma1 = 4;
         
+           
             System.out.println("la suma de las variables es : " + suma+suma1);
+            System.out.println("la resta de las variables es : " + suma-suma1);
+            System.out.println("la multi de las variables es : " + suma*suma1);
+             System.out.println("la suma de las variables es : " + suma/suma1);
+             
+            
     }
     
 }
