@@ -5,6 +5,8 @@
  */
 package Clases;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author yefers
@@ -21,19 +23,11 @@ public class main {
         
            
             System.out.println("la suma de las variables es : " + suma+suma1);
-            System.out.println("la resta de las variables es : " + suma-suma1);
+           // System.out.println("la resta de las variables es : " + suma-suma1);
             System.out.println("la multi de las variables es : " + suma*suma1);
              System.out.println("la suma de las variables es : " + suma/suma1);
              
-              System.out.println("la multi de las variables es : " + suma*suma);
-             System.out.println("la suma de las variables es : " + suma/suma);
-             
-             
-            
-             
-             public static void adali(){
-                 suma + suma1;
-             }
+            JOptionPane.showMessageDialog(null, "hola chasqueroooooooo");
              
             
     }
